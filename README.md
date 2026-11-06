@@ -50,7 +50,7 @@ Or simply double-click the `index.html` file in your file explorer. No build ste
 
 ## My solution
 
-[Link to my solution provided later after submitting]
+If you like this project please vote using this [LINK](https://roadmap.sh/projects/pricing-cards/solutions?u=66107474da1671f986289b45)
 
 ## Thank you
 
